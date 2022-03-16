@@ -199,7 +199,7 @@ function check(){
         <div class="entry left">生年月日
         </div>
         <div class="entry right">
-            <input class="form-control data"
+            <input class="form-control data w200"
                 required
                 <?= $readonly_2 ?>
                 type="date"
